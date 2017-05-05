@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{254450ED-4716-4C2A-A775-CB0C914103F5}|Default">
+  <MonoDevelop.Ide.ItemProperties.15-Puzzle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="15-Puzzle/Solver.cs">
+    <Files>
+      <File FileName="15-Puzzle/Program.cs" Line="12" Column="13" />
+      <File FileName="15-Puzzle/Puzzle.cs" Line="11" Column="58" />
+      <File FileName="15-Puzzle/Solver.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

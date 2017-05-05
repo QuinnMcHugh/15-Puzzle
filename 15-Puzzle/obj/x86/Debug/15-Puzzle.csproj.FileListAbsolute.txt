@@ -1,0 +1,5 @@
+/Users/quinnmchugh/dev/C#/15-Puzzle/15-Puzzle/bin/Debug/15-Puzzle.exe
+/Users/quinnmchugh/dev/C#/15-Puzzle/15-Puzzle/bin/Debug/15-Puzzle.pdb
+/Users/quinnmchugh/dev/C#/15-Puzzle/15-Puzzle/obj/x86/Debug/15-Puzzle.csproj.CoreCompileInputs.cache
+/Users/quinnmchugh/dev/C#/15-Puzzle/15-Puzzle/obj/x86/Debug/15-Puzzle.exe
+/Users/quinnmchugh/dev/C#/15-Puzzle/15-Puzzle/obj/x86/Debug/15-Puzzle.pdb
